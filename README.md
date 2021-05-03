@@ -1,2 +1,2 @@
 # mobi-disco
-Mobile application for Android
+Mobile application for Android.
